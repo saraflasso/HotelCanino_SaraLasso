@@ -188,3 +188,13 @@ footer{
     }
 }
 
+.box-img{
+    height: 4s;
+    
+}
+
+.box-img:hover {
+    height: 300%;
+    height: 200%;
+    transform: rotate(360deg);
+}
