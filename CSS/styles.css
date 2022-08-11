@@ -29,20 +29,6 @@ body{
 
 
 
-.inicio{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    flex-direction: row;
-    position: relative;
-    color: rgb(201, 151, 64);
-    padding: left;
-    
-    left: 80%;
-
-}
-
-
 
 .nav ul{
     font-family: 'Poppins', sans-serif;
@@ -91,8 +77,6 @@ h1{
     text-align: center;
     color: rgb(201, 151, 64);
     
-    
-    
 }
 
 .primerParrafo{
@@ -100,7 +84,7 @@ h1{
     font-weight: bold;
     font-size: 100%;
     font-family: 'Roboto', sans-serif;
-
+    
 }
 
 
@@ -199,4 +183,14 @@ footer{
     height: 200%;
     transform: rotate(360deg);
 }
+
+
+.centro{
+    text-align: center;
+    padding-left: 15%;
+    color: rgb(201, 151, 64);
+
+}
+
+
 
