@@ -1,5 +1,15 @@
 
+/*MAPS*/
+$redes: (
+    face : blue,
+    instagram : red
+);
+
+/*Variables*/
 $principal: #c99740;
 
-   
 $width: 100%;
+
+$color-face: map-get($redes, blue);
+$color-instagram: map-get($redes, red);
+
